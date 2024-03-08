@@ -1,2 +1,2 @@
 # saliency-detection
-Saliency Detection using the Fourier Transform
+Saliency detection using the Fourier transform
